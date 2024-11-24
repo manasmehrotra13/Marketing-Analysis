@@ -15,6 +15,7 @@ KEY PERFORMANCE INDICATORS (KPIs):
 4. Customer Feedback Score: Average rating from customer reviews.
 
 INSIGHTS:
+  
   OVERVIEW
   1. Conversion rates rebounded in December, reaching 10.34%, following a dip to 5.08% in October, highlighting seasonal trends and the need for targeted interventions.
   2. Customer engagement remains steady, with a 15.45% click-through rate despite declining social media views, indicating effective interaction from engaged users.
