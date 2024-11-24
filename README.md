@@ -16,19 +16,19 @@ KEY PERFORMANCE INDICATORS (KPIs):
 
 INSIGHTS:
   
-    OVERVIEW
+OVERVIEW
   1. Conversion rates rebounded in December, reaching 10.34%, following a dip to 5.08% in October, highlighting seasonal trends and the need for targeted interventions.
   2. Customer engagement remains steady, with a 15.45% click-through rate despite declining social media views, indicating effective interaction from engaged users.
 
-    CONVERSION DETAILS
+CONVERSION DETAILS
   1. January recorded the highest conversion rate at 19.61%, driven by Ski Boots with a remarkable 150% conversion, showcasing the impact of seasonal demand and marketing strategies.
   2. May had the lowest conversion rate at 4.48%, indicating a need to revisit marketing strategies or promotions during this period to improve performance.
 
-    SOCIAL MEDIA DETAILS
+SOCIAL MEDIA DETAILS
   1. Declining views from August onward suggest reduced audience engagement in the latter half of the year, highlighting a need for strategies to re-engage users.
   2. Blog content drove the most views, especially in March and May, indicating its effectiveness in engaging the audience compared to social media and video content.
 
-    CUSTOMER REVIEW DETAILS
+CUSTOMER REVIEW DETAILS
   1. Positive sentiment dominates with 275 reviews, reflecting overall strong customer satisfaction, despite some negative feedback (82 reviews), suggesting areas for improvement.
   2. The majority of customer reviews are in higher ratings, with 140 reviews at 4 stars and 135 at 5 stars, indicating a generally positive customer experience.
 
